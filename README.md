@@ -60,5 +60,5 @@
 ##因为技术原因，如有bug请向我反馈：email：feng_sh@outlook.com
 ##如果你对此项目感兴趣，也可以联系我。
 
-#最后：推荐一下我的blog [fefine](http://www.fefein.xyz),[博客园](http://www.cnblogs.com/weikongziqu/)
+#最后：推荐一下我的blog [fefine](http://www.fefine.xyz),[博客园](http://www.cnblogs.com/weikongziqu/)
 
